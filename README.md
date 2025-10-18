@@ -51,3 +51,12 @@ Follow these steps to run the project locally 👇
 ```bash
 git clone https://github.com/sarthakjaiswal/data-table-manager.git
 cd data-table-manager
+
+🧑‍💻 Developer Info
+
+👤 Author: Sarthak Jaiswal
+📧 Email: sarthakom2207@gmail.com
+
+🌍 GitHub: github.com/jaiswal-sarthak
+
+💼 LinkedIn: linkedin.com/in/sarthak-jaiswal22
