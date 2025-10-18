@@ -57,6 +57,6 @@ cd data-table-manager
 👤 Author: Sarthak Jaiswal
 📧 Email: sarthakom2207@gmail.com
 
-🌍 GitHub: github.com/jaiswal-sarthak
+🌍 GitHub: [github.com/jaiswal-sarthak](github.com/jaiswal-sarthak)
 
-💼 LinkedIn: linkedin.com/in/sarthak-jaiswal22
+💼 LinkedIn: [linkedin.com/in/sarthak-jaiswal22](linkedin.com/in/sarthak-jaiswal22)
