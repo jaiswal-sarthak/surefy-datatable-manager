@@ -1,18 +1,53 @@
-# React + Vite
+# 📊 Data Table Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, interactive data table web app built using **React + Vite** — featuring full CRUD (Create, Read, Update, Delete) operations, dynamic search, and real-time sorting.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Hosted on Netlify:**  
+👉 [https://sarthakdatatable.netlify.app](https://sarthakdatatable.netlify.app)
+---
 
-## React Compiler
+## 🧠 Overview
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+**Data Table Manager** is a web-based data handling tool designed and developed by **Sarthak Jaiswal** as part of an internship evaluation project.
 
-Note: This will impact Vite dev & build performances.
+It provides users with a smooth and intuitive interface to manage tabular data dynamically — allowing them to **add**, **edit**, **delete**, **search**, and **sort** records instantly.
 
-## Expanding the ESLint configuration
+The app is built using **React 19 + Vite**, ensuring blazing-fast performance, modular architecture, and clean, scalable code.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Features
+
+✅ **Dynamic CRUD Operations** – Add, edit, and delete table rows seamlessly  
+✅ **Instant Search** – Filter rows in real time  
+✅ **Column Sorting** – Sort data alphabetically or numerically  
+✅ **Responsive Layout** – Adapts beautifully to all screen sizes  
+✅ **Polished UI** – Clean typography, subtle shadows, and professional styling  
+✅ **Lightweight Build** – Powered by Vite for ultra-fast load times  
+✅ **Custom Icons** – Integrated with `lucide-react` for crisp vector icons  
+✅ **Attribution Footer** – Professional credit section with developer name  
+
+---
+
+## 🧱 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend Framework** | React 19 |
+| **Build Tool** | Vite 7 |
+| **UI Library** | Lucide React Icons |
+| **Language** | JavaScript (ESNext) |
+| **Styling** | CSS (custom + utility classes) |
+| **Hosting** | Netlify |
+
+---
+
+## 🧰 Installation & Setup
+
+Follow these steps to run the project locally 👇
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/sarthakjaiswal/data-table-manager.git
+cd data-table-manager
